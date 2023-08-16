@@ -1,0 +1,98 @@
+Algoritmo "PRIMEIRO_PROGRAMA"
+Var
+N1,N2:INTEIRO
+Inicio
+escreva ("DIGITE N1:")
+LEIA (N1)
+escreva ("DIGITE N1:")
+LEIA (N2)
+ESCREVA("VALOR 1:", N1)
+ESCREVA ("VALOR 2:", N2)
+Fimalgoritmo
+
+F9EXECUTAR
+ DIGITE N1:2
+ DIGITE N1:2
+ VALOR 1: 2VALOR 2: 2
+>>> Fim da execução do programa !
+
+  
+Algoritmo "PRIMEIRO_PROGRAMA+SIMPLES"
+Var
+N1,N2:INTEIRO
+Inicio
+escreva ("DIGITE N1:")
+LEIA (N1)
+escreva ("DIGITE N1:")
+LEIA (N2)
+ESCREVAl("VALOR 1:", N1)
+ESCREVA ("VALOR 2:", N2)
+Fimalgoritmo
+
+F9EXECUTAR
+ DIGITE N1:2
+ DIGITE N1:1
+ VALOR 1: 2
+ VALOR 2: 1
+>>> Fim da execução do programa !
+
+
+Algoritmo "SOMA"
+var
+n1,resultado:real
+n2:inteiro
+inicio
+escreva("multiplique:")
+leia(n1)
+escreva("por:")
+leia (n2)
+resultado<- n1+n2
+escreval ("resultado<-n1+n2")
+escreva (n1,"+",n2,"=",resultado)
+Fimalgoritmo
+
+F9EXECUTAR
+ multiplique:10 
+ por:10
+ resultado<-n1+n2
+ 10+ 10= 20
+>>> Fim da execução do programa !
+
+
+Algoritmo "DIVISAO"
+var
+n1,resultado:real
+n2:inteiro
+inicio
+escreva("divida:")
+leia(n1)
+escreva("por:")
+leia (n2)
+resultado<- n1/n2
+escreval ("resultado<-n1/n2")
+escreva (n1,"/",n2,"=",resultado)
+Fimalgoritmo
+
+F9EXECUTAR
+divida:100
+por:2
+resultado<-n1/n2
+ 100/ 2= 50
+>>> Fim da execução do programa !
+
+
+Algoritmo "QUA-SA"
+// Data atual  : 07/10/2022
+Var
+//sa=800         salario
+//sm=400            salario minimo
+//qua=800/400          quantidade de salario
+Inicio
+escreva ("salario:")
+leia (sa)
+escreva("salario minimo:")
+leia(sm)
+qua<- sa/sm
+escreva(quantidae de salaios",qua)
+Fimalgoritmo
+
